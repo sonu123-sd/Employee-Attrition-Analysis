@@ -72,6 +72,14 @@ The goal is to help organizations make data-driven decisions to improve employee
 2. Open Jupyter Notebook
 3. Run the `.ipynb` file
 
+### 📊 Power BI Dashboard
+
+* The project also includes a Power BI dashboard file (`.pbix`)
+* You can download and open it using Power BI Desktop
+* Explore interactive visuals and insights
+* You can also modify and update the dashboard as needed
+
+
 ---
 
 ## 📌 Future Improvements
